@@ -1,8 +1,17 @@
 ﻿<Properties StartupConfiguration="{61F332FC-66A8-44A2-9128-4F72DABF4A05}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp/Program.cs">
     <Files>
-      <File FileName="ConsoleApp/Program.cs" Line="11" Column="32" />
+      <File FileName="ConsoleApp/Program.cs" Line="9" Column="47" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleApp" expanded="True">
+            <Node name="ConsoleApp" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
