@@ -1,16 +1,13 @@
-﻿<Properties StartupConfiguration="{7F42F924-EE3F-4451-9D43-DF7F8EA07276}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Learning_CSharp/Program.cs">
+﻿<Properties StartupConfiguration="{93ECD0A8-FC2E-488D-8727-42A16C3FD97C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataTypes/Program.cs">
     <Files>
-      <File FileName="Variables/Program.cs" Line="13" Column="43" />
-      <File FileName="Learning_CSharp/Program.cs" Line="9" Column="17" />
+      <File FileName="DataTypes/Program.cs" Line="14" Column="68" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Learning_CSharp" expanded="True">
-            <Node name="DataTypes" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="DataTypes" expanded="True" />
             <Node name="Variables" expanded="True" />
           </Node>
         </State>

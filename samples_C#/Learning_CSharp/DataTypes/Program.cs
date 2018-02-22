@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Learning_CSharp
+namespace DataTypes
 {
     class Program
     {

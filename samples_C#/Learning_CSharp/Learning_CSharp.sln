@@ -1,9 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "Learning_CSharp\DataTypes.csproj", "{397B4652-69D3-4782-8D64-24E18D18F582}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{7F42F924-EE3F-4451-9D43-DF7F8EA07276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{93ECD0A8-FC2E-488D-8727-42A16C3FD97C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{397B4652-69D3-4782-8D64-24E18D18F582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{397B4652-69D3-4782-8D64-24E18D18F582}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{397B4652-69D3-4782-8D64-24E18D18F582}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{397B4652-69D3-4782-8D64-24E18D18F582}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7F42F924-EE3F-4451-9D43-DF7F8EA07276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7F42F924-EE3F-4451-9D43-DF7F8EA07276}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F42F924-EE3F-4451-9D43-DF7F8EA07276}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F42F924-EE3F-4451-9D43-DF7F8EA07276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93ECD0A8-FC2E-488D-8727-42A16C3FD97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93ECD0A8-FC2E-488D-8727-42A16C3FD97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93ECD0A8-FC2E-488D-8727-42A16C3FD97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93ECD0A8-FC2E-488D-8727-42A16C3FD97C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
