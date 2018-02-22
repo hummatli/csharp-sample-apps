@@ -2279,11 +2279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Disk_2/projects/github/c#-sample-apps/samples/ConsoleApp/ConsoleApp/ConsoleApp.csproj",
+      "projectUniqueName": "/Volumes/Disk_2/projects/github/c#-sample-apps/samples_C#/ConsoleApp/ConsoleApp/ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "/Volumes/Disk_2/projects/github/c#-sample-apps/samples/ConsoleApp/ConsoleApp/ConsoleApp.csproj",
+      "projectPath": "/Volumes/Disk_2/projects/github/c#-sample-apps/samples_C#/ConsoleApp/ConsoleApp/ConsoleApp.csproj",
       "packagesPath": "/Users/settar/.nuget/packages/",
-      "outputPath": "/Volumes/Disk_2/projects/github/c#-sample-apps/samples/ConsoleApp/ConsoleApp/obj",
+      "outputPath": "/Volumes/Disk_2/projects/github/c#-sample-apps/samples_C#/ConsoleApp/ConsoleApp/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{09CC3DE1-604D-42D3-AC9D-023F69E0929F}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp_FSharp/Program.fs">
     <Files>
-      <File FileName="ConsoleApp_FSharp/Program.fs" Line="1" Column="1" />
+      <File FileName="ConsoleApp_FSharp/Program.fs" Line="8" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
