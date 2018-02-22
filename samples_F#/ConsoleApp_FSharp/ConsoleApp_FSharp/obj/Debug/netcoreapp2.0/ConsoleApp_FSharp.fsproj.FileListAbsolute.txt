@@ -1,0 +1,8 @@
+/Volumes/Disk_2/projects/github/c#-sample-apps/samples_F#/ConsoleApp_FSharp/ConsoleApp_FSharp/bin/Debug/netcoreapp2.0/ConsoleApp_FSharp.deps.json
+/Volumes/Disk_2/projects/github/c#-sample-apps/samples_F#/ConsoleApp_FSharp/ConsoleApp_FSharp/bin/Debug/netcoreapp2.0/ConsoleApp_FSharp.runtimeconfig.json
+/Volumes/Disk_2/projects/github/c#-sample-apps/samples_F#/ConsoleApp_FSharp/ConsoleApp_FSharp/bin/Debug/netcoreapp2.0/ConsoleApp_FSharp.runtimeconfig.dev.json
+/Volumes/Disk_2/projects/github/c#-sample-apps/samples_F#/ConsoleApp_FSharp/ConsoleApp_FSharp/bin/Debug/netcoreapp2.0/ConsoleApp_FSharp.dll
+/Volumes/Disk_2/projects/github/c#-sample-apps/samples_F#/ConsoleApp_FSharp/ConsoleApp_FSharp/bin/Debug/netcoreapp2.0/ConsoleApp_FSharp.pdb
+/Volumes/Disk_2/projects/github/c#-sample-apps/samples_F#/ConsoleApp_FSharp/ConsoleApp_FSharp/obj/Debug/netcoreapp2.0/ConsoleApp_FSharp.fsprojResolveAssemblyReference.cache
+/Volumes/Disk_2/projects/github/c#-sample-apps/samples_F#/ConsoleApp_FSharp/ConsoleApp_FSharp/obj/Debug/netcoreapp2.0/ConsoleApp_FSharp.dll
+/Volumes/Disk_2/projects/github/c#-sample-apps/samples_F#/ConsoleApp_FSharp/ConsoleApp_FSharp/obj/Debug/netcoreapp2.0/ConsoleApp_FSharp.pdb
