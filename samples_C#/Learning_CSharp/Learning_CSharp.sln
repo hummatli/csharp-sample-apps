@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{93ECD0A8-FC2E-488D-8727-42A16C3FD97C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{43D1D4C4-4478-40D5-BC13-E94677F5D51F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{93ECD0A8-FC2E-488D-8727-42A16C3FD97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93ECD0A8-FC2E-488D-8727-42A16C3FD97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93ECD0A8-FC2E-488D-8727-42A16C3FD97C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D1D4C4-4478-40D5-BC13-E94677F5D51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D1D4C4-4478-40D5-BC13-E94677F5D51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D1D4C4-4478-40D5-BC13-E94677F5D51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D1D4C4-4478-40D5-BC13-E94677F5D51F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection

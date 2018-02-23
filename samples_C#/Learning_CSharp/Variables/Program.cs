@@ -12,5 +12,7 @@ namespace Variables
             var secondString = "Second variable";
             Console.WriteLine(secondString);
         }
+
     }
 }
+
